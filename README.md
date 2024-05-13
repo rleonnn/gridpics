@@ -34,7 +34,7 @@ https://github.com/rleonnn/gridpics.git
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/rleonnn).
+Este projeto foi desenvolvido por [Raul de Almeida](https://github.com/rleonnn).
 
 ## Licença
 
